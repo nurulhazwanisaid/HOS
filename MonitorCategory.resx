@@ -1,0 +1,167 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="ToolTipInsert.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>473, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="MinimizedButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gQMAyoaI9DATAAAAEFJREFU
+        WEftzLEJACAMRNGU4kAu4AI27r+HCPGE1BKw/Q9+l4sBAAAAyHD3ppbK2qrH/J+eFTXUTHZva8wB4MHs
+        ADoMZBa5xKm4AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <metadata name="ToolTipMinimize.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>161, 17</value>
+  </metadata>
+  <data name="CloseButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gQMAy03KU4K/gAAAK1JREFU
+        OE+lk2sOwjAMgyfB/U8A+8FDSHAR2KXCZ5hFUVcawJKnNLEddVKHiLjBEa6GJKSFWzjpsIHCCXZDpIFH
+        GcDoxu5xjDjD9aytwEzavYTgpaXohtBbNhs0miHUn80GgyoE5swGgjLkAg/PMmE2EJZbBQXlzAJiBXiz
+        kA9AWG6X8ev7vxlg+U/aIQwq8zzyrB1Co2k26C2HUHTNBrM6hM/fj+mqAv7wnGO6A9Wx2kJWi1wzAAAA
+        AElFTkSuQmCC
+</value>
+  </data>
+  <metadata name="ToolTipClose.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="SearchButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gQFBgEBpAZ5qAAAAzNJREFU
+        WEe9V12ITGEYnkHCBSLl50KINLhgm3H+do4LF0L+snvhQmnLupIkP1db5M6StbPnnNllQtRucSMXCgm1
+        FyuU9ooihaRd2di1FuN57Tuz7znze+Zs56m305zneZ/vPd//RCqhrs6ZZRjWbl23M4jnmmZ/xHMU8UHT
+        nGe6bnWC326amRmcMjkYb9g+gQa/orFsFTFA+kkpRFXTcTT8vkgjVYTzWlGcdWzlH+jSRhgNe42pIHS5
+        TV9pGM5BvDuF6OIhcWkRQzQsbFk9DCO9GcljHrM+eh+JZKMs86BlCgrbBt0rmYfCfup6h8KiyjCMjuVI
+        HBAmfxFnqQGWlIVptkyDvk3kUxGf6uudRSwpDyTc8iQfZcoXkHfG7eNcZqo0qKsgpi/OJV5nqgZko2j0
+        Ts4LBf3W9fQaJosDQlrjuYTvpplayFRNSCY7l8EHcyD/QReYKkRDQ89UiL+IAlJMBQJ8bogC3vLrQmCS
+        bBDC7PiMDw5VtfdKXwzLCqbcQKU7pRA74BymAkFV25dKX+wvm5hyA0SzEA7z68CIxXqmw09MbGcfU26A
+        bJoQ2aOlNxx/oLNE+CKsRqbcwBBslULDuLKAqUBIJu2V0rfkEGBvj0khHb1MBQIm3QHpq+uXFjPlRTaK
+        8XmXE9LyYSIQ4HVXePbz6+LAV1/MiRFjquqsZqomKIqVgI/cWXGmlAHW/iqIfomEh3S4MO0LdCFBfp/w
+        GqnqQEI3pUQSbRy23xVBRcPnpvRBtDJdHvF4+3yI38hkFHE7kWibzZKy4Px77ny7X1HOz2RJZdCphcRv
+        0gTxGYUcVpSueSxzgZatplnHoRv05FF0+95XcN3aiMqLXbPopvQE3FU8W1HUNayeXvzGcVugzQd4HG4+
+        i8AsXoKvelTMsFKgwfsI100aXufY2h9wUdkBg5fSrHQ4vei9XZxHF5whN2+d/m9aC2iZ0jhztz+A4Qs8
+        H+PZjecRcGtZmgdyTPA/JgqgcE4yHQ7oboGGR9xF2MeYDgc4a7ZgTsjrGe2Qh5gOB2hwD0L+36AimpgO
+        B2hwP+IPF0CBM8daz3Q44NuXPKTC7QUCFzGIefHUNDNz/wEB4J6sJMY80gAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="EditButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gQFBgIU4vbOgAAAAgxJREFU
+        WEftVr1Lw0Ac7aDoIvgxiLvODqU2TdLWOiidBP8D3XRzcJGCu1AE0SbBFldRVNBdF3UQtLOC+A84iEuh
+        Vur7JZeaXq4f6bWdfPDo5e7dvXe/S68N9ROqamxqmvmlqta1phVGWHd/oGnWFsyrHt73NQQMM1yAqqqa
+        V2y4d0C5V5PJ41FqC0J82qJewVP2Z0XJjzt9fyHonWDCnIJyXIIvGHiT4Fk6vT/krOk787oQqMw2tUmY
+        gnGFEwcm1njS9dwYW5M3d1kLUQM6HzhRYHrNaWcijUtdN9ZsYxfoLPGiIGxz5y4ztqkXAlEQFiORgwln
+        nQ7MCQJhu5Q3JwjELdlJ2XEXDNOnD4IJrRh453QRIfQptX0QTGrGYtCdk54qhud3evaBm9SQWKSiKIfT
+        zpzA5tQnFwC8cfRWSjBWo3vDUdnx/OgZk62AtU56fBZE44y1M0fba06UCvATj1tT4bA1iPYHN+aymTmx
+        8wA4x1vSxmLGkmgcFJ05T6kK7DJt1tNHlchrmjFPYy3MiVIBTph2FtzDe7CYTO4M2AsAiYQ5g/4i0zai
+        VIAy/jwssCk2otGjSV03N+h4wHZ+zqUC2PcAdn6BdjaAqZdyAbrA/wD/ARoGKHPCnhDfmldmWQ8MtrpA
+        usVzZlkPJFsWiLvNb0Ux5pilHxCsIAjd490+jhLWvcMtGmdWHEKhX99/nRBrUXZdAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <metadata name="ToolTipUpdate.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>618, 17</value>
+  </metadata>
+  <data name="DeleteButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gQFBgE08rW9iwAAAzFJREFU
+        WEfNVztrFFEYXUEtFMFX5QMLbYyNGhJ2HsviIxbaqYXoL1CL2IiPwhRGE20TszObBEGtAsGI/gJfQVME
+        YhFJtFCx8AHxBUKMiefkfmM+7t6dDMYVDxxm95zvNTN37uzmssLzosNBEI2C0+BMFdIb9f3SIUn7O/C8
+        0g4U/iFNXoEvq5AeY374fnm7pC8cvh+3mMLxWZGqgjGM9f3ogkjZwanDsLzXJgr2J0VdviZjzLBRv9uv
+        cmVwlr2S+A9Y6pa2BvX18RIYPysDa0NcpSn2lPYGMJ7YgbVjPCht51AsXl8JsxnTtdeS7MFe0vY/QxD0
+        rsCUcS3JHtKuErIY03a6hXK6YvHZwJQTjsQhbq8O7yp42dLeIfYIjg8snat/QtpUB4LG7MQwjM6I16f1
+        fL5ndRh2rdIaYxiLlX5a6+KN0UsFAh85Ei/SwxH3cE7napanR8XGEWPDMG7VuvGih/RSgcABOxFn02G8
+        +IrW3QNE7YzFsVPr4t2mlwpuk3YieJMezu681l0DgOdMneiWpZNleqlA0CUriZf1rvHik1p3DYD1ckLq
+        3NO68eJWeqlAk1N2IrT7xisd07r7CsRHTWzlUwA200uF3UQ4Qg9X4oDWXQPgPu83daJnWjc0w6UCTfbZ
+        iSj6ml4YlgKtuwbwvLLPWHx+o3VhE71UyM8vO/ELvSAob9O6awCsgTrGYuivWicz/UxrbOzeYCeC08Vi
+        y+J8vrRe664BgqBjHWPxuWJLZ760qY66ur6lruSGhs41TU03lmvNNQD2+mXFYrxWawlZW9qkA8Gf7WSs
+        jc3iTSaaY4BJxuTz17YoLeEnepmA4BdW8kyhEO+kh3v7IdEcA7xnDN4P9UoTxuP0MgHBg3YBvOF2izee
+        aPYAGG72ZYM/MXsSTfExvUxAkzuOAgeNFw0lmuMKPGUMX91KSzhALxMQ3GMl/34l4/NIouFebyWT7+Dz
+        XG5mEWOVlrBntngW4AzaHAW4+PjfUGtvwY9a423A8bvWjF5qk/Lzgy8Uu8BCiafouJSfH57XuQln8s1V
+        6E/IXbFQ6Noo5bOBqx7Jw0iesgtmpeQOY1HvkrIWcrlfJcTpt3YxGYAAAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="ToolTipDelete.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>775, 17</value>
+  </metadata>
+  <data name="ClearButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gQHFBwPCXmHJgAAAdNJREFU
+        WEe9Vs1KxDAY3JseVRQ8eBB9Ab3sT1roeR9AfQRvrt4UPOkbCNqtiuI+jiCyCooHX0H3vEJ1vpCw2W7S
+        pmnqwNDfb2aSL81uwyeCIN5lrP8RBP0RY8mg3b5dEo/qB8z3YZyCvxMmb1F0uSpeqQ96838KAZMemDX/
+        Ua/RjmEUJcuixB8MI38Ow6sNHB+n73ueCYjqRg7GZ/QcIRaxIJ/UZ95mAqM5hKCh55yn9F4U3S/g3O9M
+        WJhL+g+BYsO0G3lCdaZ2lNonMJJ5FL6oIpbMCzHg4kVg7HqLjmF4t4LCV1XEkjwEDDdxrn6iX3Q/F5Oe
+        J8d07RoCoz/PzgD4zk1MmF1w1UJkmIZhssONdJg1l5wK4bImiCnaccCNdDCbS1YKUdVc0imEL3PJUiF8
+        m0tahSDdHjfSwd1cMjdEvjmmZU+8pBaVJmPxEellQuSbE7A50H+4GUEXqiEwsCHu5ZsTEOA7K1SFMkS3
+        ezHHDYqApAOdUAWmnU68LeSLQT+JKLL9jotY3HMdlJ7pRG3pZi5RMUQ1cwnHEH7MJUqG8GsuYRmiHnOJ
+        ghD1mktQCBjpPtEx+OnCZvNmTcjbgfYJ7JYPKB6B2SCl2WrF60IaaDT+AMrJYvJOFM9MAAAAAElFTkSu
+        QmCC
+</value>
+  </data>
+  <metadata name="ToolTipClear.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>331, 17</value>
+  </metadata>
+</root>
